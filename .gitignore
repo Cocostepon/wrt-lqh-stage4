@@ -1,0 +1,6 @@
+# 忽略环境变量文件和临时文件
+.env
+__pycache__/
+*.pyc
+notes.txt       # 用户笔记数据
+stage4/demo/    # 演示视频或截图
